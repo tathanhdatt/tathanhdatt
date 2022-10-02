@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 -----
 <table style="width:100%;">
   <tr>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tathanhdatt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="tathanhdatt" width="40%"/>
-    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tathanhdatt&theme=tokyonight&hide_border=false" width=56%/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tathanhdatt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="tathanhdatt" width="50%"/>
   </tr>
 </table>
