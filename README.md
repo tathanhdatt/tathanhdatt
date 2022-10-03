@@ -17,12 +17,6 @@ Here are some ideas to get you started:
  - 🌱 I’m a student of [Ha Noi University of Science](http://hus.vnu.edu.vn) 
 -----
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"/>
-</div>
-
------
-
 <table style="width:100%;">
   <tr>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=tathanhdatt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="tathanhdatt" width="60%"/>
